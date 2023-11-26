@@ -1,5 +1,5 @@
 # phpanydir
-Run PHP from any directory.
+##Run PHP from any directory.
 
 This is a simple app written in Python that is intended to help developers run PHP from any directory using the built-in HTTP server.
 
