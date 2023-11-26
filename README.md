@@ -1,5 +1,6 @@
 # phpanydir
-![PHP](https://github.com/yousufsaif/phpanydir/assets/20755344/b7d7d95c-30de-4eb2-af3c-6f570ea23f70)
+![PHP](https://github.com/yousufsaif/phpanydir/assets/20755344/6dbc4014-97b2-4204-9415-39e986e1e3fd)
+
 Run PHP from any directory.
 
 This is a simple app written in Python that is intended to help developers run PHP from any directory using the built-in HTTP server.
